@@ -12,8 +12,7 @@ A clean, responsive login card built with pure HTML & CSS, featuring subtle anim
 
 ## 📸 Demo
 
-[🔗 Live Demo](https://your-demo-link.netlify.app)  
-_← Replace this with your actual deployment URL_
+[🔗 Live Demo](https://whosfatima.github.io/LOGIN/)  
 
 ## 🚀 Getting Started
 
