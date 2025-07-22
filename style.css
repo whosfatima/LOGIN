@@ -87,3 +87,17 @@ body {
 .loginForm > a:hover {
   color: #10449a;
 }
+@keyframes rotate {
+  100%{
+    background-position: 15% 50%;
+  }
+}
+@media (width >= 500px){
+  body{
+    padding: 0px;
+  }
+  .login-card{
+    width: 400px;
+    margin: 0px;
+  }
+}
